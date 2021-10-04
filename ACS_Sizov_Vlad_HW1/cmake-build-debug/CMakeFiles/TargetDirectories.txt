@@ -1,0 +1,3 @@
+/Users/user/CLionProjects/ACS_Sizov_Vlad_HW1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/user/CLionProjects/ACS_Sizov_Vlad_HW1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/user/CLionProjects/ACS_Sizov_Vlad_HW1/cmake-build-debug/CMakeFiles/ACS_Sizov_Vlad_HW1.dir
